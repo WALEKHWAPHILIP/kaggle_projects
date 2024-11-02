@@ -1,3 +1,5 @@
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue.svg)](https://www.kaggle.com/walekhwatlphilip)
+
 # Kaggle Data Science Projects
 This repository contains various data science projects and notebooks developed using Kaggle datasets and hosted on Kaggle. The focus is on data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning.
 ## Table of Contents
